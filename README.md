@@ -1,6 +1,6 @@
+![I am a MERN stack developer](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ### Hi there 👋, my name is MD.Roushan Ali
 #### I am a MERN stack developer
-![I am a MERN stack developer](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Hi, I'm MD. ROUSHAN ALI, a passionate Junior Frontend Developer specializing in the MERN stack. With expertise in HTML, CSS, JavaScript, and React, and comfortable with Node js, and Express js MongoDB, I bring a creative and results-driven approach to web development.
 
