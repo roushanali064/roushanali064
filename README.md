@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is MD.Roushan Ali
 #### I am a MERN stack developer
 
-Hi, I'm MD. ROUSHAN ALI, a passionate Junior Frontend Developer specializing in the MERN stack. With expertise in HTML, CSS, JavaScript, and React, and comfortable with Node js, and Express js MongoDB, I bring a creative and results-driven approach to web development.
+Hi, I'm  a passionate Junior Frontend Developer specializing in the MERN stack. With expertise in HTML, CSS, JavaScript, and React, and comfortable with Node js, and Express js MongoDB, I bring a creative and results-driven approach to web development.
 
 Skills:  REACT.JS / JS /NODE.JS /EXPRESS.JS/MONGO DB//HTML / CSS
 
