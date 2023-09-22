@@ -1,6 +1,6 @@
 ![I am a MERN stack developer](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ### Hi there 👋, my name is MD.Roushan Ali
-#### I am a MERN stack developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+AM+A+MERN+STACK+DEVELOPER;I+AM+A+FRONT-END+DEVELOPER;I+AM+A+REACT+DEVELOPER;I+AM+A+WEBDEVELOPER" alt="Typing SVG" /></a>
 
 Hi, I'm  a passionate Junior Frontend Developer specializing in the MERN stack. With expertise in HTML, CSS, JavaScript, and React, and comfortable with Node js, and Express js MongoDB, I bring a creative and results-driven approach to web development.
 
